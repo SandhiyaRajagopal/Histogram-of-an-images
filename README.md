@@ -79,7 +79,8 @@ plt.show()
 ## Output:
 ### Input Grayscale Image and Color Image
 
-![image](https://github.com/user-attachments/assets/ac9e3d42-f2bf-467e-a2cd-817ae88d89e0)
+![Screenshot 2025-03-29 140045](https://github.com/user-attachments/assets/09b2b027-e217-437e-94bb-268cb712cf3a)
+
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
